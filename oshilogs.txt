@@ -12,51 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Devia =====
-[1]Devia       |09:08:38 | 21-10-2026| login OK @deviayrm | score=1560 rank=4575
-[1]Devia       |09:08:38 | 21-10-2026| serverTime=2026-10-21T09:08:38.000Z local=2026-10-21T09:08:38.983Z
+[1]Devia       |08:21:26 | 22-10-2026| login OK @deviayrm | score=1630 rank=4441
+[1]Devia       |08:21:26 | 22-10-2026| serverTime=2026-10-22T08:21:26.000Z local=2026-10-22T08:21:26.960Z
 --> [1]Devia menjalankan: Claim Daily
-[1]Devia       |09:08:40 | 21-10-2026| daily: OK +10 poin score=1570
---> [1]Devia menjalankan: Auto All Tasks (6 pending)
-[1]Devia       |09:08:43 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deviayrm/status/2112833029350284942
-[1]Devia       |09:08:43 | 21-10-2026| delay 10s...
-[1]Devia       |09:08:56 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deviayrm/status/2112833136627896687
-[1]Devia       |09:08:56 | 21-10-2026| delay 10s...
-[1]Devia       |09:09:08 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deviayrm/status/2112833272822010680
-[1]Devia       |09:09:08 | 21-10-2026| delay 10s...
-[1]Devia       |09:09:21 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deviayrm/status/2112833023568488536
-[1]Devia       |09:09:21 | 21-10-2026| delay 10s...
-[1]Devia       |09:09:34 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/deviayrm/status/2112833067564564478
-[1]Devia       |09:09:34 | 21-10-2026| delay 10s...
-[1]Devia       |09:09:46 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Devia       |09:09:46 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Devia       |09:09:48 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/deviayrm/status/2112833429296945732
+[1]Devia       |08:21:27 | 22-10-2026| daily: OK +10 poin score=1640
+--> [1]Devia menjalankan: Auto All Tasks (7 pending)
+[1]Devia       |08:21:30 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183495375258928
+[1]Devia       |08:21:30 | 22-10-2026| delay 10s...
+[1]Devia       |08:21:41 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183407642783023
+[1]Devia       |08:21:41 | 22-10-2026| delay 10s...
+[1]Devia       |08:21:53 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183716692139764
+[1]Devia       |08:21:53 | 22-10-2026| delay 10s...
+[1]Devia       |08:22:05 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183681139529371
+[1]Devia       |08:22:05 | 22-10-2026| delay 10s...
+[1]Devia       |08:22:16 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183811173365750
+[1]Devia       |08:22:16 | 22-10-2026| delay 10s...
+[1]Devia       |08:22:28 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183927530355496
+[1]Devia       |08:22:28 | 22-10-2026| delay 10s...
+[1]Devia       |08:22:40 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/deviayrm/status/2113183809903319730
+[1]Devia       |08:22:40 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Devia       |08:22:41 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/deviayrm/status/2113183711894474204
 --> [1]Devia menjalankan: Watch Anime
-[1]Devia       |09:09:49 | 21-10-2026| watch: semua video sudah completed
+[1]Devia       |08:22:42 | 22-10-2026| watch: semua video sudah completed
 --> [1]Devia menjalankan: Read Article
-[1]Devia       |09:09:52 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Devia       |09:09:52 | 21-10-2026| mint eligibility: {"userId":"1778969963254214656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@deviayrm","status":"submitted","revision":"3d5b4d0b-1989-4406-a9f7-e1701475db6a"
-[1]Devia       |09:10:00 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Devia       |08:22:44 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Devia       |08:22:44 | 22-10-2026| mint eligibility: {"userId":"1778969963254214656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@deviayrm","status":"submitted","revision":"3d5b4d0b-1989-4406-a9f7-e1701475db6a"
+[1]Devia       |08:22:50 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Devia       |08:22:59 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Devia menjalankan: Quiz Anime
-[1]Devia       |09:10:02 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Devia       |09:10:02 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Devia       |09:10:02 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Devia       |09:10:02 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Devia       |09:10:02 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Devia       |09:10:02 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Devia       |08:23:01 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Devia       |08:23:01 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Devia       |08:23:01 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Devia       |08:23:01 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Devia       |08:23:01 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Devia       |08:23:01 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Devia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Devia       |09:10:05 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Devia       |09:10:05 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Devia       |09:10:05 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devia       |09:10:05 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devia       |08:23:03 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Devia       |08:23:03 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Devia       |08:23:03 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devia       |08:23:03 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devia menjalankan: Claim Missions
-[1]Devia       |09:10:06 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Devia       |09:10:06 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devia       |09:10:06 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devia       |08:23:04 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Devia       |08:23:04 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devia       |08:23:04 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devia menjalankan: Check Eligibility
 
 --- eligibility [1]Devia ---
-  @deviayrm | score=1560 rank=4575
-  tasks    [###################-] 74/80
+  @deviayrm | score=1630 rank=4441
+  tasks    [##################--] 77/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +70,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Devia menjalankan: Read Manga
-[1]Devia       |09:10:11 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Devia       |08:23:07 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Devia menjalankan: Get Gift
-[1]Devia       |09:10:12 | 21-10-2026| gift: 0/4 belum diterima
+[1]Devia       |08:23:08 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Devia menjalankan: Setup Profile
-[1]Devia       |09:10:13 | 21-10-2026| profile: bio="https://x.com/deviayrm" fav=kagura rewardAt=1791688662
-[1]Devia       |09:10:13 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Devia       |08:23:08 | 22-10-2026| profile: bio="https://x.com/deviayrm" fav=kagura rewardAt=1791688662
+[1]Devia       |08:23:08 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Devia menjalankan: Bind Wallet
-[1]Devia       |09:10:13 | 21-10-2026| wallet: sudah terikat 2dCm7rdAFS... (solana)
+[1]Devia       |08:23:09 | 22-10-2026| wallet: sudah terikat 2dCm7rdAFS... (solana)
 
 == RINGKASAN ==
-- Devia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Devia: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
