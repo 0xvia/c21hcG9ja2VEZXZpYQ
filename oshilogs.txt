@@ -12,53 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Devia =====
-[1]Devia       |09:27:43 | 29-10-2026| login OK @deviayrm | score=2280 rank=3511
-[1]Devia       |09:27:43 | 29-10-2026| serverTime=2026-10-29T09:27:43.000Z local=2026-10-29T09:27:43.653Z
+[1]Devia       |09:40:20 | 30-10-2026| login OK @deviayrm | score=2390 rank=3350
+[1]Devia       |09:40:20 | 30-10-2026| serverTime=2026-10-30T09:40:19.000Z local=2026-10-30T09:40:20.085Z
 --> [1]Devia menjalankan: Claim Daily
-[1]Devia       |09:27:44 | 29-10-2026| daily: OK +10 poin score=2290
---> [1]Devia menjalankan: Auto All Tasks (10 pending)
-[1]Devia       |09:27:46 | 29-10-2026| [1/10] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115736992470600607
-[1]Devia       |09:27:46 | 29-10-2026| delay 10s...
-[1]Devia       |09:27:58 | 29-10-2026| [2/10] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737062196921958
-[1]Devia       |09:27:58 | 29-10-2026| delay 10s...
-[1]Devia       |09:28:09 | 29-10-2026| [3/10] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737064689216683
-[1]Devia       |09:28:09 | 29-10-2026| delay 10s...
-[1]Devia       |09:28:20 | 29-10-2026| [4/10] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737079212094225
-[1]Devia       |09:28:20 | 29-10-2026| delay 10s...
-[1]Devia       |09:28:33 | 29-10-2026| [5/10] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737202724401513
-[1]Devia       |09:28:33 | 29-10-2026| delay 10s...
-[1]Devia       |09:28:44 | 29-10-2026| [6/10] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737056440668135
-[1]Devia       |09:28:44 | 29-10-2026| delay 10s...
-[1]Devia       |09:28:56 | 29-10-2026| [7/10] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737008533016899
-[1]Devia       |09:28:56 | 29-10-2026| delay 10s...
-[1]Devia       |09:29:09 | 29-10-2026| [8/10] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737081759512555
-[1]Devia       |09:29:09 | 29-10-2026| delay 10s...
-[1]Devia       |09:29:20 | 29-10-2026| [9/10] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/deviayrm/status/2115737288684311992
-[1]Devia       |09:29:20 | 29-10-2026| delay 10s...
-[1]Devia       |09:29:32 | 29-10-2026| [10/10] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Devia       |09:29:32 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Devia       |09:29:33 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/deviayrm/status/2115737255932504589
+[1]Devia       |09:40:21 | 30-10-2026| daily: OK +10 poin score=2400
+--> [1]Devia menjalankan: Auto All Tasks (6 pending)
+[1]Devia       |09:40:23 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/deviayrm/status/2116102481142634118
+[1]Devia       |09:40:23 | 30-10-2026| delay 10s...
+[1]Devia       |09:40:35 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/deviayrm/status/2116102532547148951
+[1]Devia       |09:40:35 | 30-10-2026| delay 10s...
+[1]Devia       |09:40:48 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/deviayrm/status/2116102574501408652
+[1]Devia       |09:40:48 | 30-10-2026| delay 10s...
+[1]Devia       |09:41:01 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/deviayrm/status/2116102505670423292
+[1]Devia       |09:41:01 | 30-10-2026| delay 10s...
+[1]Devia       |09:41:13 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/deviayrm/status/2116102781816714786
+[1]Devia       |09:41:13 | 30-10-2026| delay 10s...
+[1]Devia       |09:41:25 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Devia       |09:41:25 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Devia       |09:41:27 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/deviayrm/status/2116102779040214517
 --> [1]Devia menjalankan: Watch Anime
-[1]Devia       |09:29:34 | 29-10-2026| watch: semua video sudah completed
+[1]Devia       |09:41:28 | 30-10-2026| watch: semua video sudah completed
 --> [1]Devia menjalankan: Read Article
-[1]Devia       |09:29:35 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Devia       |09:29:36 | 29-10-2026| mint eligibility: {"userId":"1778969963254214656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@deviayrm","status":"submitted","revision":"3d5b4d0b-1989-4406-a9f7-e1701475db6a"
-[1]Devia       |09:29:36 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Devia       |09:41:29 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Devia       |09:41:30 | 30-10-2026| mint eligibility: {"userId":"1778969963254214656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@deviayrm","status":"submitted","revision":"3d5b4d0b-1989-4406-a9f7-e1701475db6a"
+[1]Devia       |09:41:30 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Devia menjalankan: Quiz Anime
 --> [1]Devia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Devia       |09:29:38 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Devia       |09:29:38 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Devia       |09:29:38 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devia       |09:29:38 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devia       |09:41:33 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Devia       |09:41:33 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Devia       |09:41:33 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devia       |09:41:33 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devia menjalankan: Claim Missions
-[1]Devia       |09:29:39 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Devia       |09:29:39 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Devia       |09:29:39 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Devia       |09:41:34 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Devia       |09:41:34 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Devia       |09:41:34 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Devia menjalankan: Check Eligibility
 
 --- eligibility [1]Devia ---
-  @deviayrm | score=2280 rank=3511
-  tasks    [######--------------] 4/14
+  @deviayrm | score=2390 rank=3350
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -69,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Devia menjalankan: Read Manga
-[1]Devia       |09:29:42 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Devia       |09:41:38 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Devia menjalankan: Get Gift
-[1]Devia       |09:29:43 | 29-10-2026| gift: 0/5 belum diterima
+[1]Devia       |09:41:39 | 30-10-2026| gift: 1/6 belum diterima
+[1]Devia       |09:41:40 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Devia menjalankan: Setup Profile
-[1]Devia       |09:29:43 | 29-10-2026| profile: bio="https://x.com/deviayrm" fav=kagura rewardAt=1791688662
-[1]Devia       |09:29:43 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Devia       |09:41:43 | 30-10-2026| profile: bio="https://x.com/deviayrm" fav=kagura rewardAt=1791688662
+[1]Devia       |09:41:43 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Devia menjalankan: Bind Wallet
-[1]Devia       |09:29:43 | 29-10-2026| wallet: sudah terikat 2dCm7rdAFS... (solana)
+[1]Devia       |09:41:43 | 30-10-2026| wallet: sudah terikat 2dCm7rdAFS... (solana)
 
 == RINGKASAN ==
-- Devia: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Devia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
